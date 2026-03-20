@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ギルド",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-20T15:17:23.761315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Guild [ギルド]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Guild_[ギルド]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギルド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_ギルド_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギルド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_ギルド_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ギルド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_ギルド_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ギルド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_ギルド_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ギルド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_ギルド_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "04. ギルド",
+      "artist": "Bump of Chicken",
+      "has_synced": true,
+      "path": "select/07_04._ギルド_Bump_of_Chicken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギルド",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ギルド_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
